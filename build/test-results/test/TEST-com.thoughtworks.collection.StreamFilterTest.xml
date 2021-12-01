@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.collection.StreamFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T03:59:18" hostname="HOMA3-W10" time="0.024">
-  <properties/>
-  <testcase name="should_return_common_elements()" classname="com.thoughtworks.collection.StreamFilterTest" time="0.024"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

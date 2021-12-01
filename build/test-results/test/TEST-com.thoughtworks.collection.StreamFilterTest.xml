@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.collection.StreamFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T03:48:50" hostname="HOMA3-W10" time="0.096">
+<testsuite name="com.thoughtworks.collection.StreamFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T03:56:05" hostname="HOMA3-W10" time="0.026">
   <properties/>
-  <testcase name="should_return_even()" classname="com.thoughtworks.collection.StreamFilterTest" time="0.096"/>
+  <testcase name="should_return_words_end_with_s()" classname="com.thoughtworks.collection.StreamFilterTest" time="0.026"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

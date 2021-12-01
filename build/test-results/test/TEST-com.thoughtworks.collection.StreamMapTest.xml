@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.collection.StreamMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T06:04:56" hostname="HOMA3-W10" time="0.024">
+<testsuite name="com.thoughtworks.collection.StreamMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T06:07:58" hostname="HOMA3-W10" time="0.025">
   <properties/>
-  <testcase name="should_map_to_triple()" classname="com.thoughtworks.collection.StreamMapTest" time="0.024"/>
+  <testcase name="should_map_to_letter()" classname="com.thoughtworks.collection.StreamMapTest" time="0.025"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

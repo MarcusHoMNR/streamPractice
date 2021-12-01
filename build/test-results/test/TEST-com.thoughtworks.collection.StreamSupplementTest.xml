@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.collection.StreamSupplementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T06:41:53" hostname="HOMA3-W10" time="0.025">
+<testsuite name="com.thoughtworks.collection.StreamSupplementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-01T06:48:28" hostname="HOMA3-W10" time="0.059">
   <properties/>
-  <testcase name="should_sort_from_max_to_min()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.025"/>
+  <testcase name="should_get_average_of_list()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.059"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

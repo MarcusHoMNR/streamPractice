@@ -3,6 +3,7 @@ package com.thoughtworks.collection;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class StreamSupplement {
 
@@ -14,7 +15,8 @@ public class StreamSupplement {
     }
 
     public double getAverage(List<Integer> numbers) {
-        return 0;
+        return numbers.stream().mapToDouble(number -> number)
+                .average().orElse(0);
     }
 
     public int getMaxValue(List<Integer> numbers) {

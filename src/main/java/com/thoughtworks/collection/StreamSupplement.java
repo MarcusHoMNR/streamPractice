@@ -3,7 +3,6 @@ package com.thoughtworks.collection;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class StreamSupplement {
 
@@ -20,7 +19,7 @@ public class StreamSupplement {
     }
 
     public int getMaxValue(List<Integer> numbers) {
-        return 0;
+        return numbers.stream().reduce(0, (maxNumber, number) -> number > maxNumber ? number : maxNumber);
     }
 
 }

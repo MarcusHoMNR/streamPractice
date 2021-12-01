@@ -10,7 +10,7 @@ public class StreamSupplement {
     }
 
     public List<Integer> sortFromMaxToMin(List<Integer> numbers) {
-        return null;
+        return numbers.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
     }
 
     public double getAverage(List<Integer> numbers) {
